@@ -1,0 +1,5 @@
+﻿lib/agents/base-agent.ts(37,14): error TS2722: Cannot invoke an object which is possibly 'undefined'.
+lib/agents/base-agent.ts(37,23): error TS6234: This expression is not callable because it is a 'get' accessor. Did you mean to use it without '()'?
+  Type 'String' has no call signatures.
+lib/agents/base-agent.ts(57,7): error TS2322: Type 'string | null' is not assignable to type 'string'.
+  Type 'null' is not assignable to type 'string'.
